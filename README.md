@@ -16,6 +16,7 @@ php ./php/run.php 1 2 3 -3 4 45 23 10 5 6 -3 8 9
 ##go
 
 ##js
+node ./js/run.js 1 2 3 -3 4 45 23 10 5 6 -3 8 9
 
 ##python
 
